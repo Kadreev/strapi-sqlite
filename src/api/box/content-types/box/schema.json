@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "boxes",
+  "info": {
+    "singularName": "box",
+    "pluralName": "boxes",
+    "displayName": "Boxes",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "boxid": {
+      "type": "uid"
+    },
+    "box": {
+      "displayName": "what",
+      "type": "component",
+      "repeatable": true,
+      "component": "bundle.what"
+    }
+  }
+}

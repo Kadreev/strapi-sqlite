@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * setting service.
+ * box service.
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::setting.setting');
+module.exports = createCoreService('api::box.box');

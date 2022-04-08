@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_bundle_whats",
+  "info": {
+    "displayName": "box",
+    "icon": "box",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "variant_id": {
+      "type": "biginteger"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

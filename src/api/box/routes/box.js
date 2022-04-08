@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * setting router.
+ * box router.
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
-module.exports = createCoreRouter('api::setting.setting');
+module.exports = createCoreRouter('api::box.box');
