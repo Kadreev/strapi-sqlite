@@ -38,6 +38,19 @@
                                     },
                                     "name": {
                                       "type": "string"
+                                    },
+                                    "price": {
+                                      "type": "number",
+                                      "format": "float"
+                                    },
+                                    "sku": {
+                                      "type": "string"
+                                    },
+                                    "product_id": {
+                                      "type": "string"
+                                    },
+                                    "quantity": {
+                                      "type": "integer"
                                     }
                                   }
                                 }
@@ -640,6 +653,19 @@
                                   },
                                   "name": {
                                     "type": "string"
+                                  },
+                                  "price": {
+                                    "type": "number",
+                                    "format": "float"
+                                  },
+                                  "sku": {
+                                    "type": "string"
+                                  },
+                                  "product_id": {
+                                    "type": "string"
+                                  },
+                                  "quantity": {
+                                    "type": "integer"
                                   }
                                 }
                               }
@@ -1128,6 +1154,19 @@
                             },
                             "name": {
                               "type": "string"
+                            },
+                            "price": {
+                              "type": "number",
+                              "format": "float"
+                            },
+                            "sku": {
+                              "type": "string"
+                            },
+                            "product_id": {
+                              "type": "string"
+                            },
+                            "quantity": {
+                              "type": "integer"
                             }
                           }
                         }
@@ -1211,6 +1250,19 @@
                                   },
                                   "name": {
                                     "type": "string"
+                                  },
+                                  "price": {
+                                    "type": "number",
+                                    "format": "float"
+                                  },
+                                  "sku": {
+                                    "type": "string"
+                                  },
+                                  "product_id": {
+                                    "type": "string"
+                                  },
+                                  "quantity": {
+                                    "type": "integer"
                                   }
                                 }
                               }
@@ -1722,6 +1774,19 @@
                                   },
                                   "name": {
                                     "type": "string"
+                                  },
+                                  "price": {
+                                    "type": "number",
+                                    "format": "float"
+                                  },
+                                  "sku": {
+                                    "type": "string"
+                                  },
+                                  "product_id": {
+                                    "type": "string"
+                                  },
+                                  "quantity": {
+                                    "type": "integer"
                                   }
                                 }
                               }
@@ -2221,6 +2286,19 @@
                             },
                             "name": {
                               "type": "string"
+                            },
+                            "price": {
+                              "type": "number",
+                              "format": "float"
+                            },
+                            "sku": {
+                              "type": "string"
+                            },
+                            "product_id": {
+                              "type": "string"
+                            },
+                            "quantity": {
+                              "type": "integer"
                             }
                           }
                         }

@@ -12,6 +12,18 @@
     },
     "name": {
       "type": "string"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "sku": {
+      "type": "string"
+    },
+    "product_id": {
+      "type": "string"
+    },
+    "quantity": {
+      "type": "integer"
     }
   }
 }
